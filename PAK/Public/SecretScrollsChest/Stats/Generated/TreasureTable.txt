@@ -13,6 +13,11 @@ new subtable "1,1"
 object category "I_OBJ_SecretScrolls_Pouch_Level5",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_SecretScrolls_Pouch_Level6",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_SecretScrolls_Pouch_Level7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_SecretScrolls_Pouch_Level9",1,0,0,0,0,0,0,0
+
 
 new treasuretable "SECRET_SCROLLS_CANTRIPS"
 new subtable "1,1"
@@ -236,6 +241,8 @@ object category "I_OBJ_Scroll_BladeBarrier",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_CreateUndead",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Scroll_FleshToGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_Harm",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_Heal",1,0,0,0,0,0,0,0
@@ -247,3 +254,11 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_WallOfThorns",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_WindWalk",1,0,0,0,0,0,0,0
+
+new treasuretable "SECRET_SCROLLS_LEVEL7"
+new subtable "1,1"
+object category "I_OBJ_Scroll_FingerOfDeath",1,0,0,0,0,0,0,0
+
+new treasuretable "SECRET_SCROLLS_LEVEL9"
+new subtable "1,1"
+object category "I_OBJ_Scroll_PowerWordKill",1,0,0,0,0,0,0,0
