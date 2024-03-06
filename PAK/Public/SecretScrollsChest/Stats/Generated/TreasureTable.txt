@@ -251,6 +251,8 @@ object category "I_OBJ_Scroll_HeroesFeast",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_PlanarAlly",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Scroll_TrueSeeing",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_WallOfThorns",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_WindWalk",1,0,0,0,0,0,0,0
