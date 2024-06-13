@@ -183,17 +183,15 @@ object category "I_OBJ_Scroll_Daylight",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_ElementalWeapon",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Scroll_HealingWord_Mass",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_HungerOfHadar",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_LightningArrow",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Scroll_HealingWord_Mass",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_OBJ_Scroll_PlantGrowth",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_SpiritGuardians",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Scroll_Revivify",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_LEVEL4"
 new subtable "1,1"
@@ -209,9 +207,9 @@ object category "I_OBJ_Scroll_FreedomOfMovement",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_GraspingVine",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Scroll_Invisibility_Greater",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_OBJ_Scroll_GuardianOfFaith",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Invisibility_Greater",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_LEVEL5"
 new subtable "1,1"
@@ -220,6 +218,8 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_BanishingSmite",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_Contagion",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_CureWounds_Mass",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_DanseMacabre",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -234,8 +234,6 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_GreaterRestoration",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_InsectPlague",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Scroll_CureWounds_Mass",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_LEVEL6"
 new subtable "1,1"
